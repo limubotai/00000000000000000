@@ -5,14 +5,14 @@
     "notification": true,
     "approval": true,
     "premium": false,
-    "BOTNAME": "",
-    "BOTOWNER": "",
-    "PREFIX": "!",
+    "BOTNAME": "ciku chan ⚠️",
+    "BOTOWNER": "Limon",
+    "PREFIX": ".",
     "OPERATOR": [
-        ""
+        "100000436645880"
     ],
     "ADMINBOT": [
-        ""
+        "100000436645880"
     ],
     "disabledcmds": [],
     "disabledevents": [],
