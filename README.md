@@ -1,19 +1,19 @@
 ## ABOUT ME
 
-name : ```Ryuko Developer```</br>
-age : ```17```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100094389684994).</br>
+name : ```Limon Developer```</br>
+age : ```18+```</br>
+link : [facebook](https://www.facebook.com/profile.php?id=100000436645880).</br>
 
 ## ABOUT ME
 
-name : ```Jonell Magallanes```</br>
+name : ```Shahriar Ahammed Limon```</br>
 age : ```19```</br>
-link : [facebook](https://www.facebook.com/cc.projects.jonell10).</br>
+link : [facebook](https://www.facebook.com/shahriarahammedlimonx).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [ryuko](https://replit.com/@ryukodev/ryuko?v=1) by ```Ryuko Developer```
+modified : [Limon](https://www.facebook.com/shahriarahammedlimonx) by ```Limon Developer```
 ## UPDATES NEW
 • Fixed Login FCA 
 • Added some commands
@@ -22,7 +22,6 @@ modified : [ryuko](https://replit.com/@ryukodev/ryuko?v=1) by ```Ryuko Developer
 ## Appstate Getter
 
 - use this Appstate Getter to prevent dimiss notification account from your bot account
-  here: https://joncll.serv00.net/apst.html
 
 ## OLD UPDATES
 
